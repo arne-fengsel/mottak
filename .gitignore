@@ -1,0 +1,6 @@
+.classpath
+.git
+.idea
+jacoco.exec
+mottak.iml
+target
